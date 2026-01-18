@@ -71,9 +71,5 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fidaear&theme=radical&no-frame=false&margin-w=4)
-
----
 
 ⭐ *Feel free to explore my repositories and connect with me — I’m always open to learning and collaboration!*
